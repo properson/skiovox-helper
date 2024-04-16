@@ -3,6 +3,7 @@
   "version": "2.4.2",
   "name": "Skiovox Herupa",
   "description": "A helper for the Skiovox utility -- read more at skiovox.com",
+  "key": "",
   "icons": {
     "128": "icon.png"
   },
